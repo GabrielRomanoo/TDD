@@ -5,4 +5,9 @@ Neste projeto, aprendi e desenvolvi os seguintes recrusos:
 - Desenvolvi testes automatizados com JUnit
 - Aprendi a utilizar o processo de TDD ao escrever testes automatizados
 - Conheci as principais anotações e recursos do JUnit
+#
+Segue abaixo um dos códigos desenvolvidos neste projeto:
+
+![image](https://github.com/GabrielRomanoo/TDD/blob/main/raycast-untitled.png)
+
 
